@@ -1,7 +1,7 @@
 # README Generator
-  
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   ## Description
-  This application uses node.js to generate a README according to user credentials.
+  This application generates a professional README according to user inputs from the command line.
   ## Table of Contents
   *  [Installation](#Installation)
   *  [Usage](#Usage)
@@ -15,16 +15,16 @@
     >npm i
 
   ## Usage
-  From the command line run node index.js to start the application
+  Run `node index.js` from the command line to launch the application.
   ## License
   APACHE 2.0
   ## Contributing
-  Please make a pull request or contact me (information below)
+  Submit a pull request or contact me directly for questions (see contact information below).
   ## Tests
   To run tests, run the following command:
     
     >npm test
   
-  ## Questions
-  If you have any questions about this repo, open an issue or contact me directly at [timwinters99@gmail.com](mailto:timwinters99@gmail.com). You can find more of my work at (https://github.com/erasersleeve).
+    ## Questions
+  If you have any questions about this repo, open an issue or contact me directly at [tim@winters.com](mailto:tim@winters.com). You can find more of my work at (https://github.com/erasersleeve).
   

@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type: "list",
-        message: "What lisence does this project use?",
+        message: "What license does this project use?",
         default: "( Use arrow keys)",
         choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"],
         name: "license"
