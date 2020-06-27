@@ -1,7 +1,7 @@
-# Title
+# README Generator
   
   ## Description
-  Description
+  This application uses node.js to generate a README according to user credentials.
   ## Table of Contents
   *  [Installation](#Installation)
   *  [Usage](#Usage)
@@ -15,16 +15,16 @@
     >npm i
 
   ## Usage
-  User knows
+  From the command line run node index.js to start the application
   ## License
-  MIT
+  APACHE 2.0
   ## Contributing
-  Contribute
+  Please make a pull request or contact me (information below)
   ## Tests
   To run tests, run the following command:
     
     >npm test
   
   ## Questions
-  If you have any questions about this repo, open an issue or contact me directly at [Address](mailto:Address). You can find more of my work at (https://github.com/Username).
+  If you have any questions about this repo, open an issue or contact me directly at [timwinters99@gmail.com](mailto:timwinters99@gmail.com). You can find more of my work at (https://github.com/erasersleeve).
   
