@@ -15,7 +15,7 @@
     >npm i
 
   ## Usage
-  Run node index.js from the command line to launch application. A video demonstration of the application working can be found at (https://github.com/erasersleeve/README-Generator/blob/master/assets/video_demonstration.webm)
+  Run node index.js from the command line to launch application. A video demonstration of the application working can be found at (https://github.com/erasersleeve/README-Generator/blob/master/assets/video_demonstration.webm), and screenshots are also available at (https://github.com/erasersleeve/README-Generator/tree/master/assets/images). 
   ## License
   GPL 3.0
   ## Contributing
