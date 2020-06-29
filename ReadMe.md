@@ -1,5 +1,5 @@
 # README Generator
-  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+  
   ## Description
   This application generates a professional README based on user criteria from the command line.
   ## Table of Contents
@@ -17,7 +17,7 @@
   ## Usage
   Run node index.js from the command line to launch application. A video demonstration of the application working can be found at (https://github.com/erasersleeve/README-Generator/blob/master/assets/video_demonstration.webm), and screenshots are also available at (https://github.com/erasersleeve/README-Generator/tree/master/assets/images). 
   ## License
-  GPL 3.0
+  None
   ## Contributing
   Please make a pull request or contact me directly (contact information available below).
   ## Tests
