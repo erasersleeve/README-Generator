@@ -1,7 +1,7 @@
 # README Generator
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ## Description
-  This application creates a professional README according to user inputs at the command line.
+  this application generates a professional README from user inputs at the command line.
   ## Table of Contents
   *  [Installation](#Installation)
   *  [Usage](#Usage)
@@ -15,11 +15,11 @@
     >npm i
 
   ## Usage
-  To launch the application run node index.js from the command line
+  Run node index.js from the command line to launch application.
   ## License
-  APACHE 2.0
+  BSD 3
   ## Contributing
-  Please make a pull request or contact me directly (Contact information below)
+  Please make a pull request or contact me directly (information available below).
   ## Tests
   To run tests, run the following command:
     
